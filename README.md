@@ -1,8 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I+am+Juan+Diego+%F0%9F%91%8B+;Developer+Front-End+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!--
 ## 👋 Hola, soy Juan Diego Montenegro Segura.
 
 Actualmente, soy estudiante de Ingeniería en Software en la Universidad Surcolombiana de Neiva, ubicada en Colombia. Mi enfoque principal está en el desarrollo web front-end, utilizando tecnologías como Astro, Javascript, y Tailwind. Además, reforzado con experiencia en diseño UI/UX y gráfico.
 Mi objetivo es seguir aprendiendo constantemente y aspirar a convertirme en un desarrollador Full Stack.
-<!--
 **Juanshiu/Juanshiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
