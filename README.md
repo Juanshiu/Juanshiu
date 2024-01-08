@@ -1,11 +1,11 @@
 ## 👋 Hola, soy Juan Diego Montenegro Segura.
 
-Actualmente, soy estudiante de Ingeniería en Software en la Universidad Surcolombiana de Neiva, ubicada en Colombia. Mi foco principal está en el desarrollo web front-end, utilizando tecnologías como Astro, Javascript, y Tailwind. Además, tengo experiencia en diseño UI/UX.
+Actualmente, soy estudiante de Ingeniería en Software en la Universidad Surcolombiana de Neiva, ubicada en Colombia. Mi enfoque principal está en el desarrollo web front-end, utilizando tecnologías como Astro, Javascript, y Tailwind. Además, reforzado con experiencia en diseño UI/UX y gráfico.
 Mi objetivo es seguir aprendiendo constantemente y aspirar a convertirme en un desarrollador Full Stack.
 
 ## 🤝 ¿Cómo puedes contactarme?
 
-Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en enviarme un correo electrónico a menethil0503@gmail.com. También puedes visitar mi perfil de LinkedIn para más información.
+Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en enviarme un correo electrónico a menethil0503@gmail.com. También puedes visitar mi perfil de LinkedIn para más información. https://www.linkedin.com/in/montenegro-dev/
 <!--
 **Juanshiu/Juanshiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
