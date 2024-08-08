@@ -16,9 +16,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
@@ -41,6 +38,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="react" width="40" height="40"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="nextjs" width="40" height="40"/> 
+  </a>
 </p>
 
 ## Herramientas
@@ -56,6 +56,12 @@
   </a>
   <a href="https://www.adobe.com/illustrator" target="_blank" rel="noreferrer">
     <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/premiere" target="_blank" rel="noreferrer">
+    <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="illustrator" width="40" height="40"/>
   </a>
 </p>
 
